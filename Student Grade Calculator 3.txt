@@ -1,0 +1,55 @@
+Student Grade Calculator
+
+Project Description
+
+This is a simple Python project that calculates a student's grade based on the marks entered by the user.
+
+Objective
+
+The objective of this project is to practice Python conditional statements and understand how grades are assigned based on marks.
+
+Technologies Used
+
+- Python
+- Jupyter Notebook / Visual Studio Code
+
+Grading System
+
+- 90–100: A+
+- 80–89: A
+- 70–79: B
+- 60–69: C
+- 50–59: D
+- Below 50: F
+
+Marks below 0 or above 100 are treated as invalid.
+
+How the Program Works
+
+1. The program asks the user to enter the student's name.
+2. It takes the student's marks as input.
+3. It checks whether the marks are within the valid range.
+4. It assigns a grade using "if", "elif", and "else" statements.
+5. It displays the student's name, marks, and grade.
+
+Sample Output
+
+Enter student name: P kiran
+Enter student marks: 90.0
+
+Student Result
+Name: P kiran
+Marks: 90.0
+Grade: A+
+
+How to Run
+
+1. Install Python on your computer.
+2. Save the code as "student_grade_calculator.py".
+3. Open the file in Visual Studio Code or run it using Python.
+4. Enter the student's name and marks when prompted.
+5. Check the result displayed on the screen.
+
+Conclusion
+
+This project helped me understand conditional statements in Python and how to use them to calculate student grades based on marks.
