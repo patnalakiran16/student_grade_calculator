@@ -1,0 +1,7 @@
+Enter student name: P kiran
+Enter student marks: 90
+
+Student Result
+Name: P kiran
+Marks: 90.0
+Grade: A+
